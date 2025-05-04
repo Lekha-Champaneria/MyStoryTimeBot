@@ -11,13 +11,6 @@ Welcome to **MyStoryTimeBot**, a Python-based bot designed to make your storytel
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- Python 3.7 or higher
-- Required Python libraries (see `requirements.txt`)
-
 ### Installation
 
 1. Clone the repository:
